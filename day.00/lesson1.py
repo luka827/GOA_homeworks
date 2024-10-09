@@ -25,7 +25,6 @@ forward(150)
 right(90)
 forward(212)
 
-
 left(180)
 forward(80)
 #door
@@ -84,11 +83,7 @@ goto(75,85)
 pendown()
 
 
-
-
 left(180)
-
-
 
 forward(55)
 right(90)
@@ -107,7 +102,6 @@ right(90)
 forward(25.5)
 right(90)
 forward(55)
-
 
 penup()
 goto(110,30)
@@ -130,22 +124,6 @@ pendown()
 
 
 circle(4) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 exitonclick()
