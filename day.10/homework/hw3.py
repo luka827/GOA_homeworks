@@ -1,0 +1,13 @@
+family_member1 = input("მიუთითეთ ოჯახის წევრის სახელი: ")
+age1 = int(input(f"{family_member1}-ის ასაკი: "))
+family_member2 = input("მიუთითეთ ოჯახის წევრის სახელი: ")
+age2 = int(input(f"{family_member2}-ის ასაკი: "))
+family_member3 = input("მიუთითეთ ოჯახის წევრის სახელი: ")
+age3 = int(input(f"{family_member3}-ის ასაკი: "))
+family_member4 = input("მიუთითეთ ოჯახის წევრის სახელი: ")
+age4 = int(input(f"{family_member4}-ის ასაკი: "))
+
+print(f"{family_member1} იქნება {age1 + 10} წლის 10 წელიწადში.")
+print(f"{family_member2} იქნება {age2 + 10} წლის 10 წელიწადში.")
+print(f"{family_member3} იქნება {age3 + 10} წლის 10 წელიწადში.")
+print(f"{family_member4} იქნება {age4 + 10} წლის 10 წელიწადში.")
