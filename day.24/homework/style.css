@@ -1,0 +1,25 @@
+/* სტილები Header, Nav, Article, Footer */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #460404;
+    color: rgb(89, 83, 3);
+   
+    text-align: center;
+}
+
+.nav {
+    background-color: #e90cc8a8;
+  color: rgb(90, 232, 25);
+}
+
+
+.footer {
+    background-color: #99e5ed;
+    color: rgb(25, 4, 63);
+    text-align: center;
+}
