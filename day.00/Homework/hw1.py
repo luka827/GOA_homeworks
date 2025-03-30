@@ -123,7 +123,7 @@ goto(104,105)
 pendown()
 
 
-circle(4) 
+circle(5) 
 
 
 exitonclick()
