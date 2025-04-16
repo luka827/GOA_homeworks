@@ -1,7 +1,14 @@
-p{ color: red;font-size: 20px;
-font-weight: 150 ;}
-h1{color: aqua;
+p{
+     color: red;
+font-size: 20px;
+font-weight: 150 ;
+}
+
+h1
+{color: aqua;
 }
 body{background-color: forestgreen;
-text-align: center;}
+text-align: center;
+}
+
 
